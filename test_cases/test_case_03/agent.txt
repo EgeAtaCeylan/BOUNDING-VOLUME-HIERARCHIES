@@ -1,0 +1,3 @@
+head 2 7 4 8
+right-leg 4 0 5 3
+left-leg 1 0 2 3
